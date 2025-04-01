@@ -1,0 +1,60 @@
+# Vivado project auto-generated folders
+Basic_Parking_Assist_System.cache/
+Basic_Parking_Assist_System.hw/
+Basic_Parking_Assist_System.runs/
+Basic_Parking_Assist_System.sim/
+Basic_Parking_Assist_System.ip_user_files/
+.xsim/
+.Xil/
+webtalk/
+*.backup.*
+
+# Simulation output and logs
+*.wdb
+*.log
+*.jou
+*.pb
+*.rpt
+*.dcp
+*.vds
+*.xml
+*.html
+*.str
+*.db
+*.mem
+*.sdb
+*.svtype
+*.type
+*.reloc
+*.rlx
+*.rtti
+*.xdbg
+*.xsim*
+*.ini
+*.bat
+*.sh
+*.exe
+*.tcl.backup.*
+*.info
+*.usage
+
+# IP and build artifacts
+*.ipr
+*.rst
+*.bit
+*.bin
+*.vdi
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# If using Vivado HLS
+*.hls/
+
+# (Optional) Ignore everything in project except necessary sources
+# !Basic_Parking_Assist_System.xpr
+# !Basic_Parking_Assist_System.srcs/**
+# !BasicParkingAssistSystem/**
+# !README.md
+# !.gitignore
